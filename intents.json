@@ -1,0 +1,42 @@
+{
+  "greet": {
+    "patterns": ["hello", "hi", "hey jarvis"],
+    "responses": ["Hello Sir, how can I help you?"]
+  },
+  "goodbye": {
+    "patterns": ["bye", "goodbye", "stop"],
+    "responses": ["Goodbye Sir!"]
+  },
+  "time": {
+    "patterns": ["what time", "time now", "tell me time"],
+    "responses": [""]
+  },
+  "date": {
+    "patterns": ["what date", "date today"],
+    "responses": [""]
+  },
+  "open_youtube": {
+    "patterns": ["open youtube", "start youtube"],
+    "responses": [""]
+  },
+  "open_google": {
+    "patterns": ["open google", "start google"],
+    "responses": [""]
+  },
+  "google_search": {
+    "patterns": ["search google for", "google"],
+    "responses": [""]
+  },
+  "youtube_search": {
+    "patterns": ["youtube search", "search on youtube"],
+    "responses": [""]
+  },
+  "wikipedia_search": {
+    "patterns": ["who is", "what is", "tell me about"],
+    "responses": [""]
+  },
+  "weather": {
+    "patterns": ["weather", "temperature", "climate today"],
+    "responses": ["Fetching current weather details."]
+  }
+}
